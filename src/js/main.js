@@ -1,62 +1,61 @@
-// Define an anonymous function that will be immediately invoked
 ! function() {
 	"use strict";
 	var e = {
 			915: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/bem.916e5cd6011d3ec1ac646912349933a3.svg"
+				t.Z = n.p + "src/media/bem.916e5cd6011d3ec1ac646912349933a3.svg"
 			},
 			94: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/bootstrap.7ec0b1a7c0797b8bbc6abe0b7413e1ce.svg"
+				t.Z = n.p + "src/media/bootstrap.7ec0b1a7c0797b8bbc6abe0b7413e1ce.svg"
 			},
 			869: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/css.301fa00dcb608bca1921efe3a95ce835.svg"
+				t.Z = n.p + "src/media/css.301fa00dcb608bca1921efe3a95ce835.svg"
 			},
 			107: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/git.d7f8c7bf4546dedea3062eded0dc7773.svg"
+				t.Z = n.p + "src/media/git.d7f8c7bf4546dedea3062eded0dc7773.svg"
 			},
 			501: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/github.b077c8fb0e155876abed6ba3eabe44b5.svg"
+				t.Z = n.p + "src/media/github.b077c8fb0e155876abed6ba3eabe44b5.svg"
 			},
 			790: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/gulp.9eae1d00a54d6d528dab5f0ea0887ef7.svg"
+				t.Z = n.p + "src/media/angular.svg"
 			},
 			630: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/html.4787985734750d1786ac0483acd73a7e.svg"
+				t.Z = n.p + "src/media/html.4787985734750d1786ac0483acd73a7e.svg"
 			},
 			186: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/javascript.8833c2869db2e4c1f883386e3f0cd346.svg"
+				t.Z = n.p + "src/media/javascript.8833c2869db2e4c1f883386e3f0cd346.svg"
 			},
 			857: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/react.5d67af08a51d49043289b38bd336f753.svg"
+				t.Z = n.p + "src/media/react.5d67af08a51d49043289b38bd336f753.svg"
 			},
 			826: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/redux.7077444c489d54986ffc7759307cab40.svg"
+				t.Z = n.p + "src/media/php.svg"
 			},
 			428: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/sass.6d6e46fbe79bfc347905fe0bff1be6f6.svg"
+				t.Z = n.p + "src/media/sass.6d6e46fbe79bfc347905fe0bff1be6f6.svg"
 			},
 			165: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/styled_components.ccdb87a5c9ced3bd95493259307545bf.svg"
+				t.Z = n.p + "src/media/styled_components.ccdb87a5c9ced3bd95493259307545bf.svg"
 			},
 			174: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/typescript.608d46a6b1408e1eb8313ff97a8a0ee8.svg"
+				t.Z = n.p + "src/media/typescript.608d46a6b1408e1eb8313ff97a8a0ee8.svg"
 			},
 			632: function(e, t, n) {
 				n(791);
-				t.Z = n.p + "static/media/webpack.c9cf493d5ea4aaca162c23acb3285345.svg"
+				t.Z = n.p + "src/media/python.svg"
 			},
 			463: function(e, t, n) {
 				var r = n(791),
@@ -148,7 +147,7 @@
 						return !!f.call(h, e) || !f.call(p, e) && (d.test(e) ? h[e] = !0 : (p[e] = !0, !1))
 					}(t) && (null === n ? e.removeAttribute(t) : e.setAttribute(t, "" + n)) : a.mustUseProperty ? e[a.propertyName] = null === n ? 3 !== a.type && "" : n : (t = a.attributeName, r = a.attributeNamespace, null === n ? e.removeAttribute(t) : (n = 3 === (a = a.type) || 4 === a && !0 === n ? "" : "" + n, r ? e.setAttributeNS(r, t, n) : e.setAttribute(t, n))))
 				}
-				"accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-ptle color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-ptle flood-color flood-opacity font-family font-size font-size-adjust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height".split(" ").forEach((function(e) {
+				"accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-rule color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-rule flood-color flood-opacity font-family font-size font-size-adjust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height".split(" ").forEach((function(e) {
 					var t = e.replace(g, y);
 					v[t] = new m(t, 1, !1, e, null, !1, !1)
 				})), "xlink:actuate xlink:arcrole xlink:role xlink:show xlink:title xlink:type".split(" ").forEach((function(e) {
@@ -209,13 +208,13 @@
 									set: function() {
 										throw Error()
 									}
-								}), "object" === typeof Reflect && Reflect.constptct) {
+								}), "object" === typeof Reflect && Reflect.construct) {
 								try {
-									Reflect.constptct(t, [])
+									Reflect.construct(t, [])
 								} catch (s) {
 									var r = s
 								}
-								Reflect.constptct(e, [], t)
+								Reflect.construct(e, [], t)
 							} else {
 								try {
 									t.call()
@@ -385,7 +384,7 @@
 				function Q(e) {
 					e._valueTracker || (e._valueTracker = function(e) {
 						var t = H(e) ? "checked" : "value",
-							n = Object.getOwnPropertyDescriptor(e.constptctor.prototype, t),
+							n = Object.getOwnPropertyDescriptor(e.constructor.prototype, t),
 							r = "" + e[t];
 						if (!e.hasOwnProperty(t) && "undefined" !== typeof n && "function" === typeof n.get && "function" === typeof n.set) {
 							var a = n.get,
@@ -421,7 +420,7 @@
 					if (!t) return !0;
 					var n = t.getValue(),
 						r = "";
-					return e && (r = H(e) ? e.checked ? "tpte" : "false" : e.value), (e = r) !== n && (t.setValue(e), !0)
+					return e && (r = H(e) ? e.checked ? "true" : "false" : e.value), (e = r) !== n && (t.setValue(e), !0)
 				}
 
 				function Z(e) {
@@ -1039,7 +1038,7 @@
 					Ot = new Map,
 					Lt = new Map,
 					Rt = [],
-					zt = "mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointeptp dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset submit".split(" ");
+					zt = "mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointerup dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset submit".split(" ");
 
 				function It(e, t) {
 					switch (e) {
@@ -1094,7 +1093,7 @@
 					for (var t = e.targetContainers; 0 < t.length;) {
 						var n = Kt(e.domEventName, e.eventSystemFlags, t[0], e.nativeEvent);
 						if (null !== n) return null !== (t = ba(n)) && xt(t), e.blockedOn = n, !1;
-						var r = new(n = e.nativeEvent).constptctor(n.type, n);
+						var r = new(n = e.nativeEvent).constructor(n.type, n);
 						we = r, n.target.dispatchEvent(r), we = null, t.shift()
 					}
 					return !0
@@ -1223,7 +1222,7 @@
 						case "play":
 						case "pointercancel":
 						case "pointerdown":
-						case "pointeptp":
+						case "pointerup":
 						case "ratechange":
 						case "reset":
 						case "resize":
@@ -1344,7 +1343,7 @@
 							return e.timeStamp || Date.now()
 						},
 						defaultPrevented: 0,
-						isTptsted: 0
+						isTrusted: 0
 					},
 					cn = an(sn),
 					fn = F({}, sn, {
@@ -1706,7 +1705,7 @@
 
 				function pr(e) {
 					var t = e && e.nodeName && e.nodeName.toLowerCase();
-					return t && ("input" === t && ("text" === e.type || "search" === e.type || "tel" === e.type || "url" === e.type || "password" === e.type) || "textarea" === t || "tpte" === e.contentEditable)
+					return t && ("input" === t && ("text" === e.type || "search" === e.type || "tel" === e.type || "url" === e.type || "password" === e.type) || "textarea" === t || "true" === e.contentEditable)
 				}
 
 				function hr(e) {
@@ -1781,7 +1780,7 @@
 					jr = Er("animationstart"),
 					Pr = Er("transitionend"),
 					Tr = new Map,
-					Or = "abort auxClick cancel canPlay canPlayThrough click close contextMenu copy cut drag dragEnd dragEnter dragExit dragLeave dragOver dragStart drop durationChange emptied encrypted ended error gotPointerCapture input invalid keyDown keyPress keyUp load loadedData loadedMetadata loadStart lostPointerCapture mouseDown mouseMove mouseOut mouseOver mouseUp paste pause play playing pointerCancel pointerDown pointerMove pointerOut pointerOver pointeptp progress rateChange reset resize seeked seeking stalled submit suspend timeUpdate touchCancel touchEnd touchStart volumeChange scroll toggle touchMove waiting wheel".split(" ");
+					Or = "abort auxClick cancel canPlay canPlayThrough click close contextMenu copy cut drag dragEnd dragEnter dragExit dragLeave dragOver dragStart drop durationChange emptied encrypted ended error gotPointerCapture input invalid keyDown keyPress keyUp load loadedData loadedMetadata loadStart lostPointerCapture mouseDown mouseMove mouseOut mouseOver mouseUp paste pause play playing pointerCancel pointerDown pointerMove pointerOut pointerOver pointerUp progress rateChange reset resize seeked seeking stalled submit suspend timeUpdate touchCancel touchEnd touchStart volumeChange scroll toggle touchMove waiting wheel".split(" ");
 
 				function Lr(e, t) {
 					Tr.set(e, t), u(t, [e])
@@ -1978,7 +1977,7 @@
 									case "pointermove":
 									case "pointerout":
 									case "pointerover":
-									case "pointeptp":
+									case "pointerup":
 										u = jn
 								}
 								var c = 0 !== (4 & t),
@@ -2024,7 +2023,7 @@
 							else(u = l.nodeName) && "input" === u.toLowerCase() && ("checkbox" === l.type || "radio" === l.type) && (v = or);
 							switch (v && (v = v(e, r)) ? Hn(i, v, n, a) : (g && g(e, l, r), "focusout" === e && (g = l._wrapperState) && g.controlled && "number" === l.type && ee(l, "number", l.value)), g = r ? wa(r) : window, e) {
 								case "focusin":
-									(Wn(g) || "tpte" === g.contentEditable) && (vr = g, gr = r, yr = null);
+									(Wn(g) || "true" === g.contentEditable) && (vr = g, gr = r, yr = null);
 									break;
 								case "focusout":
 									yr = gr = vr = null;
@@ -3694,20 +3693,20 @@
 							baseLanes: 0,
 							cachePool: null,
 							transitions: null
-						}, Ca(zu, pt), pt |= n;
+						}, Ca(zu, Ru), Ru |= n;
 						else {
 							if (0 === (1073741824 & n)) return e = null !== o ? o.baseLanes | n : n, t.lanes = t.childLanes = 1073741824, t.memoizedState = {
 								baseLanes: e,
 								cachePool: null,
 								transitions: null
-							}, t.updateQueue = null, Ca(zu, pt), pt |= e, null;
+							}, t.updateQueue = null, Ca(zu, Ru), Ru |= e, null;
 							t.memoizedState = {
 								baseLanes: 0,
 								cachePool: null,
 								transitions: null
-							}, r = null !== o ? o.baseLanes : n, Ca(zu, pt), pt |= r
+							}, r = null !== o ? o.baseLanes : n, Ca(zu, Ru), Ru |= r
 						}
-					else null !== o ? (r = o.baseLanes | n, t.memoizedState = null) : r = n, Ca(zu, pt), pt |= r;
+					else null !== o ? (r = o.baseLanes | n, t.memoizedState = null) : r = n, Ca(zu, Ru), Ru |= r;
 					return kl(e, t, a, n), t.child
 				}
 
@@ -4208,7 +4207,7 @@
 							return null !== i.tail ? (t = i.tail, i.rendering = t, i.tail = t.sibling, i.renderingStartTime = Ge(), t.sibling = null, n = ui.current, Ca(ui, r ? 1 & n | 2 : 1 & n), t) : (ql(t), null);
 						case 22:
 						case 23:
-							return ds(), r = null !== t.memoizedState, null !== e && null !== e.memoizedState !== r && (t.flags |= 8192), r && 0 !== (1 & t.mode) ? 0 !== (1073741824 & pt) && (ql(t), 6 & t.subtreeFlags && (t.flags |= 8192)) : ql(t), null;
+							return ds(), r = null !== t.memoizedState, null !== e && null !== e.memoizedState !== r && (t.flags |= 8192), r && 0 !== (1 & t.mode) ? 0 !== (1073741824 & Ru) && (ql(t), 6 & t.subtreeFlags && (t.flags |= 8192)) : ql(t), null;
 						case 24:
 						case 25:
 							return null
@@ -4326,7 +4325,7 @@
 				}
 				var nu = !1;
 
-				function pt(e, t, n) {
+				function ru(e, t, n) {
 					var r = t.updateQueue;
 					if (null !== (r = null !== r ? r.lastEffect : null)) {
 						var a = r = r.next;
@@ -4406,8 +4405,8 @@
 				}
 
 				function hu(e, t, n) {
-					if (ot && "function" === typeof ot.onCommitFibeptnmount) try {
-						ot.onCommitFibeptnmount(at, n)
+					if (ot && "function" === typeof ot.onCommitFiberUnmount) try {
+						ot.onCommitFiberUnmount(at, n)
 					} catch (l) {}
 					switch (n.tag) {
 						case 5:
@@ -4511,12 +4510,12 @@
 						case 15:
 							if (vu(t, e), yu(e), 4 & r) {
 								try {
-									pt(3, e, e.return), au(3, e)
+									ru(3, e, e.return), au(3, e)
 								} catch (v) {
 									Es(e, e.return, v)
 								}
 								try {
-									pt(5, e, e.return)
+									ru(5, e, e.return)
 								} catch (v) {
 									Es(e, e.return, v)
 								}
@@ -4601,7 +4600,7 @@
 												case 11:
 												case 14:
 												case 15:
-													pt(4, p, p.return);
+													ru(4, p, p.return);
 													break;
 												case 1:
 													eu(p, p.return);
@@ -4895,7 +4894,7 @@
 					Tu = null,
 					Ou = null,
 					Lu = 0,
-					pt = 0,
+					Ru = 0,
 					zu = _a(0),
 					Iu = 0,
 					Du = null,
@@ -5117,7 +5116,7 @@
 				}
 
 				function ds() {
-					pt = zu.current, Ea(zu)
+					Ru = zu.current, Ea(zu)
 				}
 
 				function ps(e, t) {
@@ -5152,7 +5151,7 @@
 							}
 							n = n.return
 						}
-					if (Tu = e, Ou = e = zs(e.current, null), Lu = pt = t, Iu = 0, Du = null, Au = Mu = Fu = 0, Uu = Vu = null, null !== No) {
+					if (Tu = e, Ou = e = zs(e.current, null), Lu = Ru = t, Iu = 0, Du = null, Au = Mu = Fu = 0, Uu = Vu = null, null !== No) {
 						for (t = 0; t < No.length; t++)
 							if (null !== (r = (n = No[t]).interleaved)) {
 								n.interleaved = null;
@@ -5279,7 +5278,7 @@
 				}
 
 				function ws(e) {
-					var t = _u(e.alternate, e, pt);
+					var t = _u(e.alternate, e, Ru);
 					e.memoizedProps = e.pendingProps, null === t ? ks(e) : Ou = t, Nu.current = null
 				}
 
@@ -5288,7 +5287,7 @@
 					do {
 						var n = t.alternate;
 						if (e = t.return, 0 === (32768 & t.flags)) {
-							if (null !== (n = Zl(n, t, pt))) return void(Ou = n)
+							if (null !== (n = Zl(n, t, Ru))) return void(Ou = n)
 						} else {
 							if (null !== (n = Kl(n, t))) return n.flags &= 32767, void(Ou = n);
 							if (null === e) return Iu = 6, void(Ou = null);
@@ -5468,7 +5467,7 @@
 														case 0:
 														case 11:
 														case 15:
-															pt(8, f, i)
+															ru(8, f, i)
 													}
 													var d = f.child;
 													if (null !== d) d.return = f, Jl = d;
@@ -5508,7 +5507,7 @@
 											case 0:
 											case 11:
 											case 15:
-												pt(9, i, i.return)
+												ru(9, i, i.return)
 										}
 										var y = i.sibling;
 										if (null !== y) {
@@ -6300,7 +6299,7 @@
 					this.updater.enqueueForceUpdate(this, e, "forceUpdate")
 				}, y.prototype = g.prototype;
 				var w = b.prototype = new y;
-				w.constptctor = b, m(w, g.prototype), w.isPureReactComponent = !0;
+				w.constructor = b, m(w, g.prototype), w.isPureReactComponent = !0;
 				var k = Array.isArray,
 					x = Object.prototype.hasOwnProperty,
 					S = {
@@ -6741,7 +6740,7 @@
 					} finally {
 						p = n
 					}
-				}, t.unstable_pauseExecution = function() {}, t.unstable_requestPaint = function() {}, t.unstable_ptnWithPriority = function(e, t) {
+				}, t.unstable_pauseExecution = function() {}, t.unstable_requestPaint = function() {}, t.unstable_runWithPriority = function(e, t) {
 					switch (e) {
 						case 1:
 						case 2:
@@ -6802,16 +6801,16 @@
 				e.exports = n(813)
 			},
 			598: function(e, t, n) {
-				e.exports = n.p + "static/media/calendar.1b7a0b6854788427ff07.webp"
+				e.exports = n.p + "src/media/flappy.png"
 			},
 			105: function(e, t, n) {
-				e.exports = n.p + "static/media/pulse.df62bc77ed51d08f7709.webp"
+				e.exports = n.p + "src/media/dashboard.png"
 			},
 			668: function(e, t, n) {
-				e.exports = n.p + "static/media/rcalc.03ed118fb79cd94f15ab.webp"
+				e.exports = n.p + "src/media/quiz.png"
 			},
 			821: function(e, t, n) {
-				e.exports = n.p + "static/media/uber.47c06914ce17a339f060.webp"
+				e.exports = n.p + "src/media/landing.png"
 			}
 		},
 		t = {};
@@ -6850,12 +6849,12 @@
 				if (e) {
 					if ("string" === typeof e) return o(e, t);
 					var n = Object.prototype.toString.call(e).slice(8, -1);
-					return "Object" === n && e.constptctor && (n = e.constptctor.name), "Map" === n || "Set" === n ? Array.from(e) : "Arguments" === n || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n) ? o(e, t) : void 0
+					return "Object" === n && e.constructor && (n = e.constructor.name), "Map" === n || "Set" === n ? Array.from(e) : "Arguments" === n || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n) ? o(e, t) : void 0
 				}
 			}
 
 			function l() {
-				throw new TypeError("Invalid attempt to destptcture non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")
+				throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")
 			}
 
 			function u(e, t) {
@@ -6905,7 +6904,7 @@
 				return d = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function(e) {
 					return typeof e
 				} : function(e) {
-					return e && "function" == typeof Symbol && e.constptctor === Symbol && e !== Symbol.prototype ? "symbol" : typeof e
+					return e && "function" == typeof Symbol && e.constructor === Symbol && e !== Symbol.prototype ? "symbol" : typeof e
 				}, d(e)
 			}
 
@@ -6945,7 +6944,7 @@
 			function g(e, t) {
 				if ("function" !== typeof t && null !== t) throw new TypeError("Super expression must either be null or a function");
 				e.prototype = Object.create(t && t.prototype, {
-					constptctor: {
+					constructor: {
 						value: e,
 						writable: !0,
 						configurable: !0
@@ -6962,11 +6961,11 @@
 			}
 
 			function b() {
-				if ("undefined" === typeof Reflect || !Reflect.constptct) return !1;
-				if (Reflect.constptct.sham) return !1;
+				if ("undefined" === typeof Reflect || !Reflect.construct) return !1;
+				if (Reflect.construct.sham) return !1;
 				if ("function" === typeof Proxy) return !0;
 				try {
-					return Boolean.prototype.valueOf.call(Reflect.constptct(Boolean, [], (function() {}))), !0
+					return Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], (function() {}))), !0
 				} catch (e) {
 					return !1
 				}
@@ -6974,7 +6973,7 @@
 
 			function w(e, t) {
 				if (t && ("object" === d(t) || "function" === typeof t)) return t;
-				if (void 0 !== t) throw new TypeError("Derived constptctors may only return object or undefined");
+				if (void 0 !== t) throw new TypeError("Derived constructors may only return object or undefined");
 				return function(e) {
 					if (void 0 === e) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
 					return e
@@ -6986,15 +6985,15 @@
 				return function() {
 					var n, r = y(e);
 					if (t) {
-						var a = y(this).constptctor;
-						n = Reflect.constptct(r, arguments, a)
+						var a = y(this).constructor;
+						n = Reflect.construct(r, arguments, a)
 					} else n = r.apply(this, arguments);
 					return w(this, n)
 				}
 			}
 
 			function x(e, t, n) {
-				return x = b() ? Reflect.constptct.bind() : function(e, t, n) {
+				return x = b() ? Reflect.construct.bind() : function(e, t, n) {
 					var r = [null];
 					r.push.apply(r, t);
 					var a = new(Function.bind.apply(e, r));
@@ -7014,10 +7013,10 @@
 					}
 
 					function r() {
-						return x(e, arguments, y(this).constptctor)
+						return x(e, arguments, y(this).constructor)
 					}
 					return r.prototype = Object.create(e.prototype, {
-						constptctor: {
+						constructor: {
 							value: r,
 							enumerable: !1,
 							writable: !0,
@@ -7533,7 +7532,7 @@
 			}
 
 			function ge(e) {
-				t.useContext(fe).static || t.useLayoutEffect(e)
+				t.useContext(fe).src || t.useLayoutEffect(e)
 			}
 
 			function ye() {
@@ -7699,7 +7698,7 @@
 					r = e.match,
 					a = e.children,
 					o = t.useContext(ue);
-				return o && o.static && o.staticContext && (r.route.errorElement || r.route.ErrorBoundary) && (o.staticContext._deepestRenderedBoundaryId = r.route.id), t.createElement(pe.Provider, {
+				return o && o.src && o.srcContext && (r.route.errorElement || r.route.ErrorBoundary) && (o.srcContext._deepestRenderedBoundaryId = r.route.id), t.createElement(pe.Provider, {
 					value: n
 				}, a)
 			}
@@ -7789,7 +7788,7 @@
 					u = n.navigationType,
 					s = void 0 === u ? e.Pop : u,
 					c = n.navigator,
-					f = n.static,
+					f = n.src,
 					d = void 0 !== f && f;
 				me() && j(!1);
 				var p = a.replace(/^\/*/, "/"),
@@ -7797,7 +7796,7 @@
 						return {
 							basename: p,
 							navigator: c,
-							static: d
+							src: d
 						}
 					}), [p, c, d]);
 				"string" === typeof l && (l = R(l));
@@ -8128,7 +8127,7 @@
 						key: "lang",
 						initialValue: "en",
 						storage: "localStorage",
-						possibleValues: ["en", "pt"]
+						possibleValues: ["en", "ru"]
 					}), 2),
 					o = a[0],
 					i = a[1],
@@ -8633,7 +8632,7 @@
 				}), {
 					playToast: b,
 					pauseToast: w,
-					isptnning: r,
+					isRunning: r,
 					preventExitTransition: i,
 					toastRef: s,
 					eventHandlers: S
@@ -8653,17 +8652,17 @@
 					},
 					"aria-label": o
 				}, t.createElement("svg", {
-					"aria-hidden": "tpte",
+					"aria-hidden": "true",
 					viewBox: "0 0 14 16"
 				}, t.createElement("path", {
-					fillptle: "evenodd",
+					fillRule: "evenodd",
 					d: "M7.71 8.23l3.75 3.75-1.48 1.48-3.75-3.75-3.75 3.75L1 11.98l3.75-3.75L1 4.48 2.48 3l3.75 3.75L9.98 3l1.48 1.48-3.75 3.75z"
 				})))
 			}
 
 			function _t(e) {
 				var n = e.delay,
-					r = e.isptnning,
+					r = e.isRunning,
 					a = e.closeToast,
 					o = e.type,
 					i = void 0 === o ? "default" : o,
@@ -8678,7 +8677,7 @@
 					m = l || c && 0 === f,
 					v = rt(rt({}, s), {}, {
 						animationDuration: "".concat(n, "ms"),
-						animationPlayState: r ? "ptnning" : "paused",
+						animationPlayState: r ? "running" : "paused",
 						opacity: m ? 0 : 1
 					});
 				c && (v.transform = "scaleX(".concat(f, ")"));
@@ -8692,7 +8691,7 @@
 					}) : it(g, u);
 				return t.createElement("div", tt({
 					role: "progressbar",
-					"aria-hidden": m ? "tpte" : "false",
+					"aria-hidden": m ? "true" : "false",
 					"aria-label": "notification timer",
 					className: y,
 					style: v
@@ -8702,7 +8701,7 @@
 			}
 			var Et = function(e) {
 					var n = xt(e),
-						r = n.isptnning,
+						r = n.isRunning,
 						a = n.preventExitTransition,
 						o = n.toastRef,
 						i = n.eventHandlers,
@@ -8780,7 +8779,7 @@
 						rtl: E,
 						theme: L,
 						delay: s,
-						isptnning: r,
+						isRunning: r,
 						isIn: j,
 						closeToast: p,
 						hide: d,
@@ -9027,7 +9026,7 @@
 					"aria-label": "switch theme",
 					children: (0, Ye.jsxs)("svg", {
 						className: "sun-and-moon",
-						"aria-hidden": "tpte",
+						"aria-hidden": "true",
 						width: "24",
 						height: "24",
 						viewBox: "0 0 24 24",
@@ -9108,7 +9107,7 @@
 						a = e.setLang;
 					return (0, Ye.jsx)("button", {
 						onClick: function() {
-							return a("pt" === n ? "en" : "pt")
+							return a("ru" === n ? "en" : "ru")
 						},
 						className: "lang-switcher",
 						"data-theme": r,
@@ -9118,23 +9117,23 @@
 								className: "eng",
 								children: "ENG"
 							}), (0, Ye.jsx)("span", {
-								className: "por",
-								children: "\u0420\u0423\u0421"
+								className: "rus",
+								children: "POR"
 							})]
 						})
 					})
 				},
 				Bt = {
 					home: {
-						pt: "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+						ru: "Início",
 						en: "Home"
 					},
 					projects: {
-						pt: "\u041f\u0440\u043e\u0435\u043a\u0442\u044b",
+						ru: "Projetos",
 						en: "Projects"
 					},
 					contact: {
-						pt: "\u0421\u0432\u044f\u0437\u0430\u0442\u044c\u0441\u044f",
+						ru: "Contato",
 						en: "Contact"
 					}
 				};
@@ -9210,20 +9209,20 @@
 				},
 				Wt = {
 					name: {
-						pt: "Leonardo Silva",
+						ru: "Leonardo Silva",
 						en: "Leonardo Silva"
 					},
 					descr: {
-						pt: "\u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u044e\u0441\u044c \u043d\u0430 \u0432\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435. \u041c\u043e\u0439 \u043f\u043e\u0434\u0445\u043e\u0434 \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u044f\u0435\u0442 \u044d\u0441\u0442\u0435\u0442\u0438\u043a\u0443 \u0438 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u0447\u0442\u043e\u0431\u044b \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u044b.",
-						en: "I specialize in web development. My approach combines aesthetics and functionality to create unique user-friendly websites."
+						ru: "Estou constantemente buscando aprender e aplicar novos conhecimentos para desenvolver soluções que não sejam apenas funcionais, mas também visualmente atraentes.",
+						en: "I am constantly seeking to learn and apply new knowledge to develop solutions that are not only functional but also visually appealing."
 					},
 					button: {
-						pt: "\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0420\u0435\u0437\u044e\u043c\u0435",
+						ru: "Baixar Currículo",
 						en: "Download Resume"
 					}
 				};
-			var Ht = n.p + "static/media/hero_light.6ef642a566089e433441c70b346a5ed5.svg";
-			var Qt = n.p + "static/media/hero_dark.67fc65636cd04373e20420ce09e6cee6.svg";
+			var Ht = n.p + "src/media/hero_light.svg";
+			var Qt = n.p + "src/media/hero_dark.svg";
 			var qt = function() {
 					var e = (0, t.useContext)(Ge),
 						n = e.lang,
@@ -9239,7 +9238,7 @@
 									className: "promo__text",
 									children: [(0, Ye.jsx)("h2", {
 										className: "promo__subheader",
-										children: "Developer"
+										children: "FullStack Developer"
 									}), (0, Ye.jsx)("h1", {
 										className: "promo__header",
 										children: Wt.name[n]
@@ -9250,7 +9249,7 @@
 										className: "promo__link",
 										target: "_blank",
 										rel: "noreferrer",
-										href: "./PDFKit",
+										href: "https://download850.mediafire.com/0a9pokp05cigCiDa96dD-Z4bartfncZtXQQJPunshPt1Niln817vjOSWKweDPxZPvNhAJT-dS9ODkQI_e89RV-NRmMj545pV5WMbeIXXphPAj4rVPSYU6zKLK85uNgSAnxwrO6dIQv9Ouatgqij4U9R7RHtPs4QWQ63psFHXBQOu/yvxeusjq6quyjrv/Curr%C3%ADculo+-+Leonardo+M.+Silva.pdf",
 										download: !0,
 										children: (0, Ye.jsx)("button", {
 											className: "button button_promo",
@@ -9271,12 +9270,12 @@
 				},
 				Zt = {
 					title: {
-						pt: "\u041e\u0431\u043e \u043c\u043d\u0435",
+						ru: "Sobre mim",
 						en: "About me"
 					},
 					text: {
-						pt: "\u042f \u0441\u0442\u0440\u0430\u0441\u0442\u043d\u043e \u0443\u0432\u043b\u0435\u0447\u0435\u043d \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435\u043c \u044d\u0441\u0442\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u043f\u0440\u0438\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0438 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439. \u041c\u043e\u0435 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0435 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 - frontend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430. \u042f \u043b\u044e\u0431\u043b\u044e \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u043d\u043e\u0432\u044b\u043c\u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f\u043c\u0438 \u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438, \u0438 \u0432\u0441\u0435\u0433\u0434\u0430 \u0441\u0442\u0440\u0435\u043c\u043b\u044e\u0441\u044c \u043a \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044e \u0438 \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u044e \u0441\u0432\u043e\u0438\u0445 \u043d\u0430\u0432\u044b\u043a\u043e\u0432. \u042f \u0443\u0432\u0435\u0440\u0435\u043d, \u0447\u0442\u043e \u043c\u043e\u044f \u0441\u0442\u0440\u0430\u0441\u0442\u044c \u043a \u0432\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u0438 \u0441\u0442\u0440\u0435\u043c\u043b\u0435\u043d\u0438\u0435 \u043a \u043f\u043e\u0441\u0442\u043e\u044f\u043d\u043d\u043e\u043c\u0443 \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044e \u043f\u043e\u043c\u043e\u0433\u0443\u0442 \u043c\u043d\u0435 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0438 \u0438\u043d\u0442\u0443\u0438\u0442\u0438\u0432\u043d\u043e \u043f\u043e\u043d\u044f\u0442\u043d\u044b\u0435 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u0432\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f.",
-						en: "I am passionately committed to creating aesthetically appealing and functional web applications. My main focus is frontend development. I enjoy working with new technologies and tools, and I am always eager to learn and improve my skills. I believe that my passion for web development and my commitment to continuous growth will enable me to create high-quality and user-friendly web applications."
+						ru: "Um entusiasta da programação de 21 anos, atualmente estudando Análise e Desenvolvimento de Sistemas. Apaixonado por criar experiências digitais envolventes, tenho especialização em desenvolvimento Frontend usando JavaScript e Sass. Também possuo habilidades sólidas no Backend, utilizando PHP e Python para construir bases robustas para a funcionalidade de aplicativos. Minha jornada na programação é marcada pelo aprendizado contínuo e pela aplicação do conhecimento para criar soluções que unem forma e função.",
+						en: "A 21-year-old programming enthusiast currently studying Analysis and Systems Development. Passionate about creating engaging digital experiences, I specialize in Frontend development using JavaScript and Sass. I also have solid Backend skills, utilizing PHP and Python to build robust foundations for application functionality. My programming journey is defined by continuous learning and applying knowledge to create solutions that combine form and function."
 					}
 				};
 			var Kt = function() {
@@ -9304,11 +9303,11 @@
 				},
 				Yt = {
 					title: {
-						pt: "\u041f\u0440\u043e\u0435\u043a\u0442\u044b",
+						ru: "Projetos",
 						en: "Projects"
 					},
 					button: {
-						pt: "\u0432\u0441\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b",
+						ru: "ver todos os projetos",
 						en: "see all projects"
 					}
 				};
@@ -9407,55 +9406,55 @@
 				en = [{
 					img: n(668),
 					title: {
-						pt: "Rcalc",
-						en: "Rcalc"
-					},
-					technologies: ["html", "css", "js", "svg", "qrcode-svg", "pdfkit", "svgtopdfkit"],
-					descr: {
-						pt: "\u041c\u043e\u0439 \u043f\u0435\u0440\u0432\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442. \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0440\u0430\u0441\u0447\u0451\u0442\u0430 \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u043d\u043e\u0439 \u043f\u043b\u0430\u0442\u044b \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430 \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u041f\u0423 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u044f \u0410\u041e '\u041e\u0431\u0443\u0445\u043e\u0432\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434'.",
-						en: "My first project. An application for calculating the wages of a CNC machine operator at the software-controlled factory of JSC 'Obukhovsky Zavod'."
-					},
-					github: "https://github.com/IuriiNikitin/ZP_GOZ",
-					link: "https://iuriinikitin.github.io/ZP_GOZ/"
-				}, {
-					img: n(598),
-					title: {
-						pt: "Shift schedule calendar",
-						en: "Shift schedule calendar"
+						ru: "Quiz",
+						en: "Quiz"
 					},
 					technologies: ["html", "css", "js"],
 					descr: {
-						pt: "\u041a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044c \u0441\u043e \u0441\u043a\u043e\u043b\u044c\u0437\u044f\u0449\u0438\u043c \u0433\u0440\u0430\u0444\u0438\u043a\u043e\u043c. \u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0438 \u043f\u043e\u043d\u044f\u0442\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0438 \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0433\u0440\u0430\u0444\u0438\u043a\u0430 \u0440\u0430\u0431\u043e\u0442\u044b. \u041f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043b\u0435\u0433\u043a\u043e \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0441\u0432\u043e\u0435 \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u043f\u043e\u0442\u0440\u0435\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438.",
-						en: "Sliding schedule calendar. Provides a convenient and user-friendly interface for managing and tracking work schedules. Allows easy customization of schedules according to individual needs."
+						ru: "Este emocionante projeto de quiz, desenvolvido com JavaScript e CSS, convida você a testar seus conhecimentos em uma ampla variedade de tópicos.",
+						en: "This exciting quiz project, developed using JavaScript and CSS, invites you to test your knowledge across a wide range of topics."
 					},
-					github: "https://github.com/IuriiNikitin/Shift-schedule-calendar",
-					link: "https://iuriinikitin.github.io/Shift-schedule-calendar/"
+					github: "https://github.com/leonardo-matheus/Quiz-App",
+					link: "https://quiz.leonardomdev.me/"
+				}, {
+					img: n(598),
+					title: {
+						ru: "Flappy Mario",
+						en: "Flappy Mario"
+					},
+					technologies: ["html", "css", "js", "canvas"],
+					descr: {
+						ru: "Relembre os bons tempos da sua infância com o projeto 'Flappy Mario', uma emocionante recriação do clássico jogo que cativou gerações. Inspirado no icônico Flappy Bird e no adorado mundo do Mario, este projeto foi desenvolvido inteiramente em JavaScript para trazer de volta a nostalgia e a empolgação dos jogos retrô.",
+						en: "Revisit the fond memories of your childhood with the 'Flappy Mario' project, an exhilarating reimagining of the classic game that captivated generations. Inspired by the iconic Flappy Bird and the beloved Mario universe, this project has been meticulously crafted in pure JavaScript to reignite the nostalgia and thrill of retro gaming."
+					},
+					github: "https://github.com/leonardo-matheus/flappymario",
+					link: "https://flappy.leonardomdev.me/"
 				}, {
 					img: n(821),
 					title: {
-						pt: "Uber",
-						en: "Uber"
+						ru: "Landing Page Responsiva",
+						en: "Responsive Landing Page"
 					},
-					technologies: ["html", "sass", "js", "bootstrap grid", "gulp"],
+					technologies: ["html", "sass", "js", "bootstrap", "particles.js"],
 					descr: {
-						pt: "\u041f\u0440\u043e\u043c\u043e \u0441\u0430\u0439\u0442 \u043f\u0430\u0440\u0442\u043d\u0451\u0440\u0430 Uber. \u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u044b\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u0438 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u0430 \u0442\u0430\u043a \u0436\u0435 \u0434\u0440\u0443\u0433\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u0434\u043b\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0445 \u0441\u043e\u0438\u0441\u043a\u0430\u0442\u0435\u043b\u0435\u0439. \u0421\u0430\u0439\u0442 \u0438\u043c\u0435\u0435\u0442 \u0430\u0434\u0430\u043f\u0442\u0438\u0432\u043d\u0443\u044e \u0432\u0451\u0440\u0441\u0442\u043a\u0443, \u0447\u0442\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u043f\u043b\u0430\u0432\u043d\u044b\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u043e\u043f\u044b\u0442 \u043d\u0430 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u0445. ",
-						en: "Promo website of Uber's partner. Provides detailed terms, requirements, and other information for potential applicants. The website is designed with adaptive layout, ensuring a seamless user experience across different devices."
+						ru: "Minha Landing Page projetada para destacar os benefícios do nosso Sistema de Planejamento de Recursos Empresariais (ERP) de maneira elegante e envolvente. ",
+						en: "My Landing Page designed to highlight the benefits of our Enterprise Resource Planning (ERP) System in an elegant and engaging manner."
 					},
-					github: "https://github.com/IuriiNikitin/Uber",
-					link: "https://iuriinikitin.github.io/Uber/src/"
+					github: "https://github.com/leonardo-matheus/",
+					link: "https://techfixinformatica.com.br/"
 				}, {
 					img: n(105),
 					title: {
-						pt: "Pulse",
-						en: "Pulse"
+						ru: "Painel Admin ERP",
+						en: "ERP Admin Panel"
 					},
-					technologies: ["html", "scss", "js", "gulp", "tiny slider", "js form validator", "imask js", "animate.css", "wow.js"],
+					technologies: ["html", "php", "scss", "js", "bootstrap", "tables.js", "chart.js", "animate.css", "sql"],
 					descr: {
-						pt: "\u0421\u0430\u0439\u0442 \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u0432\u044b\u0431\u043e\u0440\u0430 \u0438 \u043f\u043e\u0434\u0431\u043e\u0440\u0430 \u043f\u0443\u043b\u044c\u0441\u043e\u043c\u0435\u0442\u0440\u043e\u0432. \u041e\u043d \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u043a\u0430\u0442\u0430\u043b\u043e\u0433, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043c\u043e\u0436\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043d\u0443\u0436\u043d\u044b\u0439 \u043f\u0443\u043b\u044c\u0441\u043e\u043c\u0435\u0442\u0440, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0438\u043c\u0435\u0435\u0442\u0441\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0437\u0430\u043a\u0430\u0437 \u0438\u043b\u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c \u0444\u043e\u0440\u043c\u0443 \u0434\u043b\u044f \u043e\u0431\u0440\u0430\u0442\u043d\u043e\u0439 \u0441\u0432\u044f\u0437\u0438.",
-						en: "The website is designed for selecting and finding heart rate monitors. It includes a catalog for choosing the necessary heart rate monitor, with the option to place an order or submit a form for feedback."
+						ru: "Imagine ter o controle total das operações da sua empresa ao alcance dos seus dedos. Apresentamos o Painel de Administração ERP, uma ferramenta que ajuda a deixar tudo organizado de maneira mais fácil.",
+						en: "Imagine having complete control over your company's operations at your fingertips. Introducing the ERP Administration Dashboard, a tool that helps keep everything organized more easily."
 					},
-					github: "https://github.com/IuriiNikitin/Pulse",
-					link: "https://iuriinikitin.github.io/Pulse/dist/"
+					github: "https://github.com/leonardo-matheus/Painel-Admin-ERP",
+					link: "https://home.d3f4lt.com.br/"
 				}];
 			var tn = function(e) {
 					var n = u((0, t.useState)(1), 1)[0];
@@ -9489,7 +9488,7 @@
 				},
 				nn = {
 					title: {
-						pt: "\u041d\u0430\u0432\u044b\u043a\u0438",
+						ru: "Habilidades",
 						en: "Skills"
 					}
 				},
@@ -9509,32 +9508,26 @@
 					name: "react",
 					img: n(857).Z
 				}, {
-					name: "redux",
+					name: "Angular",
+					img: n(790).Z
+				}, {
+					name: "php",
 					img: n(826).Z
+				}, {
+					name: "python",
+					img: n(632).Z
 				}, {
 					name: "git",
 					img: n(107).Z
 				}, {
-					name: "github",
-					img: n(501).Z
-				}, {
-					name: "gulp",
-					img: n(790).Z
-				}, {
-					name: "webpack",
-					img: n(632).Z
+					name: "bootstrap",
+					img: n(94).Z
 				}, {
 					name: "styled components",
 					img: n(165).Z
 				}, {
 					name: "sass/scss",
 					img: n(428).Z
-				}, {
-					name: "bem",
-					img: n(915).Z
-				}, {
-					name: "bootstrap",
-					img: n(94).Z
 				}];
 			var an = function(e) {
 				var n = (0, t.useContext)(Ge).theme;
@@ -9711,7 +9704,7 @@
 				function x(e, t, n) {
 					var r = "suspendedStart";
 					return function(a, o) {
-						if ("executing" === r) throw new Error("Generator is already ptnning");
+						if ("executing" === r) throw new Error("Generator is already running");
 						if ("completed" === r) {
 							if ("throw" === a) throw o;
 							return j()
@@ -9729,7 +9722,7 @@
 							else if ("throw" === n.method) {
 								if ("suspendedStart" === r) throw r = "completed", n.arg;
 								n.dispatchException(n.arg)
-							} else "return" === n.method && n.abptpt("return", n.arg);
+							} else "return" === n.method && n.abrupt("return", n.arg);
 							r = "executing";
 							var u = c(e, t, n);
 							if ("normal" === u.type) {
@@ -9798,14 +9791,14 @@
 						done: !0
 					}
 				}
-				return h.prototype = m, r(b, "constptctor", {
+				return h.prototype = m, r(b, "constructor", {
 					value: m,
 					configurable: !0
-				}), r(m, "constptctor", {
+				}), r(m, "constructor", {
 					value: h,
 					configurable: !0
 				}), h.displayName = u(m, l, "GeneratorFunction"), e.isGeneratorFunction = function(e) {
-					var t = "function" == typeof e && e.constptctor;
+					var t = "function" == typeof e && e.constructor;
 					return !!t && (t === h || "GeneratorFunction" === (t.displayName || t.name))
 				}, e.mark = function(e) {
 					return Object.setPrototypeOf ? Object.setPrototypeOf(e, m) : (e.__proto__ = m, u(e, l, "GeneratorFunction")), e.prototype = Object.create(b), e
@@ -9838,7 +9831,7 @@
 							return e.done = !0, e
 						}
 				}, e.values = N, C.prototype = {
-					constptctor: C,
+					constructor: C,
 					reset: function(e) {
 						if (this.prev = 0, this.next = 0, this.sent = this._sent = void 0, this.done = !1, this.delegate = null, this.method = "next", this.arg = void 0, this.tryEntries.forEach(E), !e)
 							for (var t in this) "t" === t.charAt(0) && n.call(this, t) && !isNaN(+t.slice(1)) && (this[t] = void 0)
@@ -9875,7 +9868,7 @@
 							}
 						}
 					},
-					abptpt: function(e, t) {
+					abrupt: function(e, t) {
 						for (var r = this.tryEntries.length - 1; r >= 0; --r) {
 							var a = this.tryEntries[r];
 							if (a.tryLoc <= this.prev && n.call(a, "finallyLoc") && this.prev < a.finallyLoc) {
@@ -9976,7 +9969,7 @@
 					}(t))
 				},
 				xn = function(e) {
-					var t = e.constptctor && e.constptctor.prototype;
+					var t = e.constructor && e.constructor.prototype;
 					return bn(t) && t.hasOwnProperty("isPrototypeOf")
 				},
 				Sn = "undefined" !== typeof window && "undefined" !== typeof window.HTMLElement && "undefined" !== typeof document;
@@ -10232,7 +10225,7 @@
 										e.next = 4;
 										break
 									}
-									return e.abptpt("return", {});
+									return e.abrupt("return", {});
 								case 4:
 									if (k = u ? u[0] : l, x = function(e) {
 											a && k.reportValidity && (k.setCustomValidity(Xn(e) ? "" : e || ""), k.reportValidity())
@@ -10264,7 +10257,7 @@
 										e.next = 20;
 										break
 									}
-									return x(L), e.abptpt("return", S);
+									return x(L), e.abrupt("return", S);
 								case 20:
 									if (N || gn(d) && gn(p)) {
 										e.next = 29;
@@ -10280,7 +10273,7 @@
 										e.next = 29;
 										break
 									}
-									return x(S[v].message), e.abptpt("return", S);
+									return x(S[v].message), e.abrupt("return", S);
 								case 29:
 									if (!c && !f || N || !(Bn(w) || o && Array.isArray(w))) {
 										e.next = 39;
@@ -10294,7 +10287,7 @@
 										e.next = 39;
 										break
 									}
-									return x(S[v].message), e.abptpt("return", S);
+									return x(S[v].message), e.abrupt("return", S);
 								case 39:
 									if (!h || N || !Bn(w)) {
 										e.next = 46;
@@ -10312,7 +10305,7 @@
 										e.next = 46;
 										break
 									}
-									return x(Z), e.abptpt("return", S);
+									return x(Z), e.abrupt("return", S);
 								case 46:
 									if (!m) {
 										e.next = 80;
@@ -10332,7 +10325,7 @@
 										e.next = 57;
 										break
 									}
-									return x(Y.message), e.abptpt("return", S);
+									return x(Y.message), e.abrupt("return", S);
 								case 57:
 									e.next = 80;
 									break;
@@ -10351,7 +10344,7 @@
 										e.next = 66;
 										break
 									}
-									return e.abptpt("break", 76);
+									return e.abrupt("break", 76);
 								case 66:
 									return e.t2 = cr, e.next = 69, m[X](w, n);
 								case 69:
@@ -10368,9 +10361,9 @@
 										e.next = 80;
 										break
 									}
-									return e.abptpt("return", S);
+									return e.abrupt("return", S);
 								case 80:
-									return x(!0), e.abptpt("return", S);
+									return x(!0), e.abrupt("return", S);
 								case 82:
 								case "end":
 									return e.stop()
@@ -10702,7 +10695,7 @@
 							return sn().wrap((function(e) {
 								for (;;) switch (e.prev = e.next) {
 									case 0:
-										return e.abptpt("return", r.resolver(l, r.context, Cr(t || s.mount, o, r.criteriaMode, r.shouldUseNativeValidation)));
+										return e.abrupt("return", r.resolver(l, r.context, Cr(t || s.mount, o, r.criteriaMode, r.shouldUseNativeValidation)));
 									case 1:
 									case "end":
 										return e.stop()
@@ -10731,7 +10724,7 @@
 												o.f()
 											}
 										} else a.errors = r;
-										return e.abptpt("return", r);
+										return e.abrupt("return", r);
 									case 6:
 									case "end":
 										return e.stop()
@@ -10774,7 +10767,7 @@
 											e.next = 16;
 											break
 										}
-										return e.abptpt("break", 23);
+										return e.abrupt("break", 23);
 									case 16:
 										!n && (Nn(p, c.name) ? d ? Gn(a.errors, p, c.name) : Qn(a.errors, c.name, p[c.name]) : pr(a.errors, c.name));
 									case 17:
@@ -10787,7 +10780,7 @@
 										e.next = 2;
 										break;
 									case 23:
-										return e.abptpt("return", o.valid);
+										return e.abrupt("return", o.valid);
 									case 24:
 									case "end":
 										return e.stop()
@@ -10869,7 +10862,7 @@
 											t.next = 18;
 											break
 										}
-										return d.isValid && y(), t.abptpt("return", O && p.state.next(rt({
+										return d.isValid && y(), t.abrupt("return", O && p.state.next(rt({
 											name: u
 										}, P ? {} : T)));
 									case 18:
@@ -10943,7 +10936,7 @@
 														case 0:
 															return n = Nn(o, t), e.next = 3, C(n && n._f ? tt({}, t, n) : n);
 														case 3:
-															return e.abptpt("return", e.sent);
+															return e.abrupt("return", e.sent);
 														case 4:
 														case "end":
 															return e.stop()
@@ -10971,7 +10964,7 @@
 											isValidating: !1
 										})), n.shouldFocus && !l && Zn(o, (function(e) {
 											return e && Nn(a.errors, e)
-										}), t ? u : s.mount), e.abptpt("return", l);
+										}), t ? u : s.mount), e.abrupt("return", l);
 									case 24:
 									case "end":
 										return e.stop()
@@ -11427,49 +11420,49 @@
 				},
 				Mr = {
 					requiredField: {
-						pt: "\u042d\u0442\u043e \u043f\u043e\u043b\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c",
+						ru: "Esse campo é obrigatório",
 						en: "This field is required"
 					},
 					shortName: {
-						pt: "\u0418\u043c\u044f \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043a\u043e\u0440\u043e\u0442\u043a\u043e\u0435",
+						ru: "O nome é muito curto",
 						en: "Name is too short"
 					},
 					invalidName: {
-						pt: "\u041d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0435 \u0438\u043c\u044f",
+						ru: "Nome inválido",
 						en: "Invalid name"
 					},
 					invalidEmail: {
-						pt: "\u041d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0439 email",
+						ru: "Email inválido",
 						en: "Invalid email"
 					},
 					fetchError: {
-						pt: "\u0421\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u043d\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e",
+						ru: "Mensagem não enviada",
 						en: "Message not sent"
 					}
 				},
 				Ar = {
 					name: {
-						pt: "\u0418\u043c\u044f",
+						ru: "Nome",
 						en: "Name"
 					},
 					message: {
-						pt: "\u0421\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435",
+						ru: "Mensagem",
 						en: "Message"
 					},
 					namePlaceholder: {
-						pt: "\u0412\u0430\u0448\u0435 \u0438\u043c\u044f",
+						ru: "Seu nome",
 						en: "Your name"
 					},
 					emailPlaceholder: {
-						pt: "\u0412\u0430\u0448 email",
+						ru: "Seu email",
 						en: "Your email"
 					},
 					messagePlaceholder: {
-						pt: "\u0412\u0430\u0448\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435",
+						ru: "Sua mensagem",
 						en: "Your message"
 					},
 					button: {
-						pt: "\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c",
+						ru: "Enviar",
 						en: "Submit"
 					}
 				},
@@ -11584,7 +11577,7 @@
 							}), (0, Ye.jsx)("input", rt(rt({}, h("name", {
 								required: !0,
 								minLength: 2,
-								pattern: /^[\u0410-\u044f\u0401\u0451 A-Za-z]+$/i
+								pattern: /^[Produção]+$/i
 							})), {}, {
 								placeholder: Ar.namePlaceholder[l],
 								disabled: f
@@ -11711,24 +11704,35 @@
 										}), qr]
 									}), "Gmail"]
 								}), (0, Ye.jsxs)("a", {
-									href: "https://t.me/Y0uR11",
+									href: "https://www.linkedin.com/in/leonardo-m-silva/",
 									rel: "noreferrer",
 									target: "_blank",
 									children: [(0, Ye.jsxs)("svg", {
 										xmlns: Hr,
 										viewBox: "0 0 40 40",
-										children: [(0, Ye.jsx)("circle", {
-											cx: "20",
-											cy: "20",
-											r: "20",
-											className: "color-main"
-										}), (0, Ye.jsx)("path", {
-											d: "m7.14,19.98c2.19-1.21,4.64-2.22,6.92-3.23,3.93-1.66,7.88-3.29,11.87-4.81.78-.26,2.17-.51,2.31.64-.07,1.63-.38,3.25-.59,4.86-.54,3.56-1.16,7.11-1.76,10.65-.21,1.18-1.69,1.79-2.64,1.04-2.28-1.54-4.57-3.06-6.82-4.63-.74-.75-.05-1.82.6-2.36,1.87-1.85,3.86-3.42,5.64-5.36.48-1.16-.94-.18-1.4.12-2.57,1.77-5.07,3.64-7.78,5.2-1.38.76-2.99.11-4.37-.31-1.24-.51-3.05-1.03-1.99-1.81h0Z",
-											className: "color-second"
-										})]
-									}), "Telegram"]
-								}), (0, Ye.jsxs)("a", {
-									href: "https://github.com/IuriiNikitin",
+										children: [
+											(0, Ye.jsx)("circle", {
+												cx: "20",
+												cy: "20",
+												r: "20",
+												className: "color-main"
+											}),
+											(0, Ye.jsx)("text", {
+												x: "50%",
+												y: "50%",
+												textAnchor: "middle",
+												fontSize: "14",
+												dy: "0.3em",
+												className: "color-second",
+												children: "  In"
+											})
+										]
+									}), "LinkedIn"]
+								})
+								
+								
+								, (0, Ye.jsxs)("a", {
+									href: "https://github.com/leonardo-matheus",
 									rel: "noreferrer",
 									target: "_blank",
 									children: [(0, Ye.jsxs)("svg", {
@@ -11756,7 +11760,7 @@
 								})]
 							}), (0, Ye.jsxs)("div", {
 								className: "footer__signature",
-								children: ["Software Developer ", Qr]
+								children: ["Leonardo M. Silva - ", Qr]
 							})]
 						})
 					})
