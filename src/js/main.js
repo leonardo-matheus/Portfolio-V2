@@ -1,5 +1,6 @@
 ! function() {
 	"use strict";
+	//Variaveis de imagens
 	var e = {
 			915: function(e, t, n) {
 				n(791);
@@ -195,6 +196,7 @@
 				}
 				var A = !1;
 
+				//Rotas
 				function V(e, t) {
 					if (!e || A) return "";
 					A = !0;
@@ -311,7 +313,7 @@
 					}
 					return null
 				}
-
+				//Armazenar no cache
 				function $(e) {
 					var t = e.type;
 					switch (e.tag) {
@@ -530,7 +532,7 @@
 					var t = e.textContent;
 					t === e._wrapperState.initialValue && "" !== t && null !== t && (e.value = t)
 				}
-
+				// IE
 				function le(e) {
 					switch (e) {
 						case "svg":
@@ -1194,7 +1196,7 @@
 					} else t !== e && (e = null);
 					return Zt = e, null
 				}
-
+				//Casos de validação de eventos
 				function Yt(e) {
 					switch (e) {
 						case "cancel":
@@ -1752,7 +1754,7 @@
 						listeners: r
 					}), t.target = vr)))
 				}
-
+				//Aqui é onde o evento é disparado
 				function kr(e, t) {
 					var n = {};
 					return n[e.toLowerCase()] = t.toLowerCase(), n["Webkit" + e] = "webkit" + t, n["Moz" + e] = "moz" + t, n
@@ -8123,11 +8125,12 @@
 					}), 2),
 					n = t[0],
 					r = t[1],
+					//Variáveis de linguagens
 					a = u(Ke({
 						key: "lang",
 						initialValue: "en",
 						storage: "localStorage",
-						possibleValues: ["en", "ru"]
+						possibleValues: ["en", "ptbr"]
 					}), 2),
 					o = a[0],
 					i = a[1],
@@ -8566,6 +8569,7 @@
 					m = e.onClick,
 					v = e.closeOnClick;
 
+				//Função de fechar o toast
 				function g(t) {
 					if (e.draggable) {
 						"touchstart" === t.nativeEvent.type && t.nativeEvent.preventDefault(), c.didMove = !1, document.addEventListener("mousemove", k), document.addEventListener("mouseup", x), document.addEventListener("touchmove", k), document.addEventListener("touchend", x);
@@ -9105,9 +9109,10 @@
 						n = e.lang,
 						r = e.theme,
 						a = e.setLang;
+					//Botão de alternar o idioma
 					return (0, Ye.jsx)("button", {
 						onClick: function() {
-							return a("ru" === n ? "en" : "ru")
+							return a("ptbr" === n ? "en" : "ptbr")
 						},
 						className: "lang-switcher",
 						"data-theme": r,
@@ -9123,17 +9128,18 @@
 						})
 					})
 				},
+				//Função para criar o contexto
 				Bt = {
 					home: {
-						ru: "Início",
+						ptbr: "Início",
 						en: "Home"
 					},
 					projects: {
-						ru: "Projetos",
+						ptbr: "Projetos",
 						en: "Projects"
 					},
 					contact: {
-						ru: "Contato",
+						ptbr: "Contato",
 						en: "Contact"
 					}
 				};
@@ -9209,15 +9215,15 @@
 				},
 				Wt = {
 					name: {
-						ru: "Leonardo Silva",
+						ptbr: "Leonardo Silva",
 						en: "Leonardo Silva"
 					},
 					descr: {
-						ru: "Estou constantemente buscando aprender e aplicar novos conhecimentos para desenvolver soluções que não sejam apenas funcionais, mas também visualmente atraentes.",
+						ptbr: "Estou constantemente buscando aprender e aplicar novos conhecimentos para desenvolver soluções que não sejam apenas funcionais, mas também visualmente atraentes.",
 						en: "I am constantly seeking to learn and apply new knowledge to develop solutions that are not only functional but also visually appealing."
 					},
 					button: {
-						ru: "Baixar Currículo",
+						ptbr: "Baixar Currículo",
 						en: "Download Resume"
 					}
 				};
@@ -9270,11 +9276,11 @@
 				},
 				Zt = {
 					title: {
-						ru: "Sobre mim",
+						ptbr: "Sobre mim",
 						en: "About me"
 					},
 					text: {
-						ru: "Um entusiasta da programação de 21 anos, atualmente estudando Análise e Desenvolvimento de Sistemas. Apaixonado por criar experiências digitais envolventes, tenho especialização em desenvolvimento Frontend usando JavaScript e Sass. Também possuo habilidades sólidas no Backend, utilizando PHP e Python para construir bases robustas para a funcionalidade de aplicativos. Minha jornada na programação é marcada pelo aprendizado contínuo e pela aplicação do conhecimento para criar soluções que unem forma e função.",
+						ptbr: "Um entusiasta da programação de 21 anos, atualmente estudando Análise e Desenvolvimento de Sistemas. Apaixonado por criar experiências digitais envolventes, tenho especialização em desenvolvimento Frontend usando JavaScript e Sass. Também possuo habilidades sólidas no Backend, utilizando PHP e Python para construir bases robustas para a funcionalidade de aplicativos. Minha jornada na programação é marcada pelo aprendizado contínuo e pela aplicação do conhecimento para criar soluções que unem forma e função.",
 						en: "A 21-year-old programming enthusiast currently studying Analysis and Systems Development. Passionate about creating engaging digital experiences, I specialize in Frontend development using JavaScript and Sass. I also have solid Backend skills, utilizing PHP and Python to build robust foundations for application functionality. My programming journey is defined by continuous learning and applying knowledge to create solutions that combine form and function."
 					}
 				};
@@ -9303,11 +9309,11 @@
 				},
 				Yt = {
 					title: {
-						ru: "Projetos",
+						ptbr: "Projetos",
 						en: "Projects"
 					},
 					button: {
-						ru: "ver todos os projetos",
+						ptbr: "ver todos os projetos",
 						en: "see all projects"
 					}
 				};
@@ -9406,12 +9412,12 @@
 				en = [{
 					img: n(668),
 					title: {
-						ru: "Quiz",
+						ptbr: "Quiz",
 						en: "Quiz"
 					},
 					technologies: ["html", "css", "js"],
 					descr: {
-						ru: "Este emocionante projeto de quiz, desenvolvido com JavaScript e CSS, convida você a testar seus conhecimentos em uma ampla variedade de tópicos.",
+						ptbr: "Este emocionante projeto de quiz, desenvolvido com JavaScript e CSS, convida você a testar seus conhecimentos em uma ampla variedade de tópicos.",
 						en: "This exciting quiz project, developed using JavaScript and CSS, invites you to test your knowledge across a wide range of topics."
 					},
 					github: "https://github.com/leonardo-matheus/Quiz-App",
@@ -9419,12 +9425,12 @@
 				}, {
 					img: n(598),
 					title: {
-						ru: "Flappy Mario",
+						ptbr: "Flappy Mario",
 						en: "Flappy Mario"
 					},
 					technologies: ["html", "css", "js", "canvas"],
 					descr: {
-						ru: "Relembre os bons tempos da sua infância com o projeto 'Flappy Mario', uma emocionante recriação do clássico jogo que cativou gerações. Inspirado no icônico Flappy Bird e no adorado mundo do Mario, este projeto foi desenvolvido inteiramente em JavaScript para trazer de volta a nostalgia e a empolgação dos jogos retrô.",
+						ptbr: "Relembre os bons tempos da sua infância com o projeto 'Flappy Mario', uma emocionante recriação do clássico jogo que cativou gerações. Inspirado no icônico Flappy Bird e no adorado mundo do Mario, este projeto foi desenvolvido inteiramente em JavaScript para trazer de volta a nostalgia e a empolgação dos jogos retrô.",
 						en: "Revisit the fond memories of your childhood with the 'Flappy Mario' project, an exhilarating reimagining of the classic game that captivated generations. Inspired by the iconic Flappy Bird and the beloved Mario universe, this project has been meticulously crafted in pure JavaScript to reignite the nostalgia and thrill of retro gaming."
 					},
 					github: "https://github.com/leonardo-matheus/flappymario",
@@ -9432,12 +9438,12 @@
 				}, {
 					img: n(821),
 					title: {
-						ru: "Landing Page Responsiva",
+						ptbr: "Landing Page Responsiva",
 						en: "Responsive Landing Page"
 					},
 					technologies: ["html", "sass", "js", "bootstrap", "particles.js"],
 					descr: {
-						ru: "Minha Landing Page projetada para destacar os benefícios do nosso Sistema de Planejamento de Recursos Empresariais (ERP) de maneira elegante e envolvente. ",
+						ptbr: "Minha Landing Page projetada para destacar os benefícios do nosso Sistema de Planejamento de Recursos Empresariais (ERP) de maneira elegante e envolvente. ",
 						en: "My Landing Page designed to highlight the benefits of our Enterprise Resource Planning (ERP) System in an elegant and engaging manner."
 					},
 					github: "https://github.com/leonardo-matheus/",
@@ -9445,12 +9451,12 @@
 				}, {
 					img: n(105),
 					title: {
-						ru: "Painel Admin ERP",
+						ptbr: "Painel Admin ERP",
 						en: "ERP Admin Panel"
 					},
 					technologies: ["html", "php", "scss", "js", "bootstrap", "tables.js", "chart.js", "animate.css", "sql"],
 					descr: {
-						ru: "Imagine ter o controle total das operações da sua empresa ao alcance dos seus dedos. Apresentamos o Painel de Administração ERP, uma ferramenta que ajuda a deixar tudo organizado de maneira mais fácil.",
+						ptbr: "Imagine ter o controle total das operações da sua empresa ao alcance dos seus dedos. Apresentamos o Painel de Administração ERP, uma ferramenta que ajuda a deixar tudo organizado de maneira mais fácil.",
 						en: "Imagine having complete control over your company's operations at your fingertips. Introducing the ERP Administration Dashboard, a tool that helps keep everything organized more easily."
 					},
 					github: "https://github.com/leonardo-matheus/Painel-Admin-ERP",
@@ -9488,7 +9494,7 @@
 				},
 				nn = {
 					title: {
-						ru: "Habilidades",
+						ptbr: "Habilidades",
 						en: "Skills"
 					}
 				},
@@ -11420,49 +11426,49 @@
 				},
 				Mr = {
 					requiredField: {
-						ru: "Esse campo é obrigatório",
+						ptbr: "Esse campo é obrigatório",
 						en: "This field is required"
 					},
 					shortName: {
-						ru: "O nome é muito curto",
+						ptbr: "O nome é muito curto",
 						en: "Name is too short"
 					},
 					invalidName: {
-						ru: "Nome inválido",
+						ptbr: "Nome inválido",
 						en: "Invalid name"
 					},
 					invalidEmail: {
-						ru: "Email inválido",
+						ptbr: "Email inválido",
 						en: "Invalid email"
 					},
 					fetchError: {
-						ru: "Mensagem não enviada",
+						ptbr: "Mensagem não enviada",
 						en: "Message not sent"
 					}
 				},
 				Ar = {
 					name: {
-						ru: "Nome",
+						ptbr: "Nome",
 						en: "Name"
 					},
 					message: {
-						ru: "Mensagem",
+						ptbr: "Mensagem",
 						en: "Message"
 					},
 					namePlaceholder: {
-						ru: "Seu nome",
+						ptbr: "Seu nome",
 						en: "Your name"
 					},
 					emailPlaceholder: {
-						ru: "Seu email",
+						ptbr: "Seu email",
 						en: "Your email"
 					},
 					messagePlaceholder: {
-						ru: "Sua mensagem",
+						ptbr: "Sua mensagem",
 						en: "Your message"
 					},
 					button: {
-						ru: "Enviar",
+						ptbr: "Enviar",
 						en: "Submit"
 					}
 				},
@@ -11548,6 +11554,7 @@
 							}, this.settings))
 						}
 					};
+					//Configuração de Envio do formulário
 					return (0, Ye.jsxs)("form", {
 						onSubmit: m((function(e) {
 							var t = setTimeout((function() {
@@ -11665,6 +11672,7 @@
 						})
 					})
 				},
+				//Fundo do botão
 				Hr = "http://www.w3.org/2000/svg",
 				Qr = (new Date).getFullYear(),
 				qr = (0, Ye.jsxs)("linearGradient", {
@@ -11677,6 +11685,7 @@
 						offset: "100%"
 					})]
 				});
+			//Footer Buttons
 			var Zr = function() {
 					var e = (0, t.useContext)(Ge),
 						n = e.lang,

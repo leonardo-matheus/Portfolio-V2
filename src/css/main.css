@@ -168,12 +168,12 @@
     -webkit-transform:translateX(0);
     transform:translateX(0)
 }
-.lang-switcher[data-lang=en] div,.lang-switcher[data-lang=ru] div {
+.lang-switcher[data-lang=en] div,.lang-switcher[data-lang=ptbr] div {
     transition:-webkit-transform .3s ease-in-out;
     transition:transform .3s ease-in-out;
     transition:transform .3s ease-in-out,-webkit-transform .3s ease-in-out
 }
-.lang-switcher[data-lang=ru] div {
+.lang-switcher[data-lang=ptbr] div {
     -webkit-transform:translateX(-50px);
     transform:translateX(-50px)
 }
